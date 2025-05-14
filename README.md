@@ -1,6 +1,9 @@
 # HealthCare-Providers-Dashboard
 This project features a comprehensive Healthcare Provider Dashboard developed using Power BI. The main goal of this dashboard is to present important financial and operational insights related to healthcare billing, treatment expenses, and patient services in a visual and user-friendly format.
 
+![image](https://github.com/user-attachments/assets/76485a59-699b-4945-b85e-1f1d83f7f8d1)
+
+
 **Dashboard Overview:**
 This dashboard offers a clear and interactive view of key healthcare financial metrics, making complex data easier to understand and act on.
 
